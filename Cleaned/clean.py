@@ -1,25 +1,31 @@
 import os
 import pandas as pd
-path = r'C:\Users\Yousef\Desktop\Uni\BU\MidiDataset\Cleaned\0 STILL NOT CLEANED I JUST COPIED THEM HERE SO I CAN EASILY MOVE STUFF AROUND\b\black_sabbath'
-database_path = r'C:\Users\Yousef\Desktop\Uni\BU\MidiDataset\Cleaned\database.csv'
-artist = 'Black Sabbath'
 genre = 'Rock'
+database_path = r'C:\Users\Yousef\Desktop\Uni\BU\MidiDataset\Cleaned\database.csv'
+folders = os.walk(r'C:\Users\Yousef\Desktop\Uni\BU\MidiDataset\Cleaned\zzzzz')
 
-files = os.listdir(path)
+for folder in folders:
+    path, _, files = folder
+    if files and files[0][-4:] == '.mid':
 
-for file in files:
-    original = path + '\\' + file
-    changed = path + '\\' + ' '.join(file.split('_'))
-    os.rename(original, changed)
+        sections = path.split('\\')
+        artist = sections[-1]
+        artist = ' '.join(artist.split('_'))
 
-files = os.listdir(path)
 
-song_names = []
-for file in files:
-    song_names.append(file.split('.mid')[0])
+        song_names = []
+        for file in files:
+            original = path + '\\' + file
 
-files = [[artist, song, genre] for song in song_names]
+            song_name = ' '.join(file.split('_'))
+            changed = path + '\\' + song_name
 
-df = pd.DataFrame(files,columns = ['Artist', 'Song Name', 'Genre(s)'])
+            song_names.append(song_name[:-4])   # remove '.mid'
 
-df.to_csv(database_path, index='False', header=False, mode='a')
+            os.rename(original, changed)
+
+        files = [[artist, song, genre] for song in song_names]
+
+        df = pd.DataFrame(files,columns = ['Artist', 'Song Name', 'Genre(s)'])
+
+        df.to_csv(database_path, index='False', header=False, mode='a')
