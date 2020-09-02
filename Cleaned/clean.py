@@ -26,6 +26,6 @@ for folder in folders:
 
         files = [[artist, song, genre] for song in song_names]
 
-        df = pd.DataFrame(files,columns = ['Artist', 'Song Name', 'Genre(s)'])
+        df = pd.DataFrame(files, columns = ['Artist', 'Song Name', 'Genre(s)'])
 
         df.to_csv(database_path, index='False', header=False, mode='a')
