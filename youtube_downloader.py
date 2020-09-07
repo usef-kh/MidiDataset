@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
 	yd = YoutubeDownloader(sys.argv[1],sys.argv[3])
 	if(os.path.isfile(sys.argv[2])):
-		with open(credentials_file) as f:
+		with open(sys.argv[2]) as fp:
 			for cnt, line in enumerate(fp):
 				yd.download_song(line)
 	else:
