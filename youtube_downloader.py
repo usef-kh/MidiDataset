@@ -1,4 +1,5 @@
 import os
+import glob
 import json
 import sys
 from apiclient.discovery import build
@@ -20,7 +21,8 @@ class YoutubeDownloader():
 		if(len(response['items']) > 0 and response['items'][0]['id']['kind'] == "youtube#video"):
 			print('Downloading {0} at {1}'.format(query, self.out_location))
 			os.system("youtube-dl --extract-audio --audio-format mp3 -o '" + self.out_location+ "/%(title)s.%(ext)s' https://www.youtube.com/watch?v=" + response['items'][0]['id']['videoId'])
-			database[query] = '%(title)s.%(ext)s'
+			list_of_files = glob.glob(self.out_location+'/*')
+			database[query.strip()] = max(list_of_files, key=os.path.getctime).split('/')[-1]
 		else:
 			print('Query failed for {0}'.format(query))
 
@@ -42,6 +44,6 @@ if __name__ == "__main__":
 			for cnt, line in enumerate(fp):
 				yd.download_song(line,database)
 		with open(yd.out_location+'/database.json', 'w') as f:
-        	datastore = json.dump(database,f)
+        		datastore = json.dump(database,f)
 	else:
 		yd.download_song(sys.argv[2])
