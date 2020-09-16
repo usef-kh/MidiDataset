@@ -1,15 +1,19 @@
 import pandas as pd
+import numpy as np
 
 database_path = r'.\database.csv'
-database = pd.read_csv(database_path, encoding = "ISO-8859-1")
+database = pd.read_csv(database_path, encoding="ISO-8859-1")
 
-with open("song_names.txt", "w") as output:
-    for index, row in database.iterrows():
-        song = row['Song Name'] + ' - ' + row['Artist']
-        output.write(song + '\n')
+songs = []
+for index, row in database.iterrows():
+    songs += [row['Song Name'] + ' - ' + row['Artist']]
 
-
-
-
-
+n_batches = (len(database) - 1) // 100 + 1
+batches = np.array_split(np.array(songs), n_batches)
+# print(len(batches))
+for i, batch in enumerate(batches):
+    filename = 'batch_' + str(i) +'.txt'
+    with open(filename, 'w') as output:
+        for song in batch:
+            output.write(song + '\n')
 
