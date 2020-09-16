@@ -1,4 +1,5 @@
 import os
+import glob
 import json
 import sys
 from apiclient.discovery import build
@@ -13,17 +14,20 @@ class YoutubeDownloader():
 		self.api_version = 'v3'
 
 
-	def download_song(self,query):
+	def download_song(self,query,database):
 		youtube = build(self.api_service_name, self.api_version, developerKey = self.apikey)
 		request = youtube.search().list(q=query,part='snippet')
 		response = request.execute()
 		if(len(response['items']) > 0 and response['items'][0]['id']['kind'] == "youtube#video"):
 			print('Downloading {0} at {1}'.format(query, self.out_location))
 			os.system("youtube-dl --extract-audio --audio-format mp3 -o '" + self.out_location+ "/%(title)s.%(ext)s' https://www.youtube.com/watch?v=" + response['items'][0]['id']['videoId'])
+			list_of_files = glob.glob(self.out_location+'/*')
+			database[query.strip()] = max(list_of_files, key=os.path.getctime).split('/')[-1]
 		else:
 			print('Query failed for {0}'.format(query))
 
 if __name__ == "__main__":
+	database = {}
 	if(len(sys.argv) != 4):
 		print('Improper arguemnts. Format: python youtube_downloader <credentials_file> <query/input file> <out_location>')
 		sys.exit(1)
@@ -38,6 +42,8 @@ if __name__ == "__main__":
 	if(os.path.isfile(sys.argv[2])):
 		with open(sys.argv[2]) as fp:
 			for cnt, line in enumerate(fp):
-				yd.download_song(line)
+				yd.download_song(line,database)
+		with open(yd.out_location+'/database.json', 'w') as f:
+        		datastore = json.dump(database,f)
 	else:
 		yd.download_song(sys.argv[2])
