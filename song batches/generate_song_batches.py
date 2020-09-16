@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-database_path = r'.\database.csv'
+database_path = r'..\Cleaned\database.csv'
 database = pd.read_csv(database_path, encoding="ISO-8859-1")
 
 songs = []
