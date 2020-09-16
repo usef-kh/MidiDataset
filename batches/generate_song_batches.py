@@ -8,7 +8,8 @@ songs = []
 for index, row in database.iterrows():
     songs += [row['Song Name'] + ' - ' + row['Artist']]
 
-n_batches = (len(database) - 1) // 100 + 1
+batch_size = 70
+n_batches = ((len(database) - 1) // batch_size) + 1
 batches = np.array_split(np.array(songs), n_batches)
 # print(len(batches))
 for i, batch in enumerate(batches):

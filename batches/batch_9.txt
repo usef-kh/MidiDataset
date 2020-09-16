@@ -1,99 +1,69 @@
-Dont Stand So Close To Me 1 - police
-Dont Stand So Close To Me 2 - police
-Every Breath You Take - police
-Every Little Thing She Does Is Magic - police
-King Of Pain - police
-Message In A Bottle - police
-Roxanne - police
-Roxanne 2 - police
-Spirits In The Material World - police
-Walking On The Moon - police
-Written In The Stars - police
-Blurry - puddle of mudd
-Blurry 2 - puddle of mudd
-Control - puddle of mudd
-She Hates Me - puddle of mudd
-Go With The Flow - qotsa
-Mosquito Song - qotsa
-All Dead All Dead - queen
-All Gods People - queen
-Another One Bites The Dust - queen
-A Human Body - queen
-Back Chat - queen
-Bicycle Race - queen
-Bijou - queen
-Bohemain Rhapsody - queen
-Bohemain Rhapsody 2 - queen
-Breakthrough - queen
-Bring Back That Leroy Brown - queen
-Coming Soon - queen
-Days Of Our Lives - queen
-Death On Two Legs - queen
-Doing All Right - queen
-Dont Try So Hard - queen
-Dragon Attack - queen
-Dreamers Ball - queen
-Drowse - queen
-Fairy Fellers Master Stroke - queen
-Father To Son - queen
-Fight From The Inside - queen
-Flick Of The Wrist - queen
-Friends Will Be Friends - queen
-Funny How Love Is - queen
-Fun It - queen
-Get Down Make Love - queen
-Goin Back - queen
-Good Old Fashioned Lover Boy - queen
-Hangman - queen
-Headlong - queen
-Im Going Slightly Mad - queen
-Im In Love With My Car - queen
-In Only 7 Days - queen
-In The Lap Of The Gods - queen
-In The Lap Of The Gods Revisited - queen
-Its A Hard Life - queen
-Its Late - queen
-I Want To Break Free - queen
-Jealousy - queen
-Jesus - queen
-Killer Queen - queen
-Lazing On A Sunday Afternoon - queen
-Leaving Home Aint Easy - queen
-Lets Get Crazy - queen
-Let Me Entertain You - queen
-Liar - queen
-Life Is Real Song For Lennon - queen
-Lily Of The Valley - queen
-Long Away - queen
-Loser In The End - queen
-Love Of My Life Live - queen
-Mad The Swine - queen
-March Of The Black Queen - queen
-Millionaire Waltz - queen
-Misfire - queen
-More Of That Jazz - queen
-Mustapha - queen
-My Fairy King - queen
-My Melancholy Blues - queen
-Nevermore - queen
-Night Comes Down - queen
-Ogre Battle - queen
-Prophets Song - queen
-Put Out The Fire - queen
-Queen Medley 5 Songs From Side Black - queen
-Resurrection - queen
-Ride The Wild Wind - queen
-Sail Away Sweet Sister - queen
-Save Me - queen
-Seaside Rendezvous - queen
-Sheer Heart Attack - queen
-She Makes Me - queen
-Sleeping On The Sidewalk - queen
-Somebody To Love - queen
-Some Day One Day - queen
-Soul Brother - queen
-Spread Your Wings - queen
-Staying Power - queen
-Tenement Funster - queen
-Tonight - queen
-Under Pressure - queen
+Living Loving Maid - led zeppelin
+Moby Dick - led zeppelin
+Rock And Roll - led zeppelin
+Stairway To Heaven 1 - led zeppelin
+Ten Years Gone - led zeppelin
+When The Levee Breaks - led zeppelin
+Whole Lotta Love - led zeppelin
+Nicotina - libido
+Break Stuff - limp bizkit
+Counterfeit - limp bizkit
+Faith - limp bizkit
+Im Broke - limp bizkit
+Leech - limp bizkit
+My Generation - limp bizkit
+Nobody Like You - limp bizkit
+No Sex - limp bizkit
+N 2 Gether Now - limp bizkit
+Stuck - limp bizkit
+A Place For My Head - linkin park
+Breaking The Habit - linkin park
+Easier To Run - linkin park
+Faint - linkin park
+Hit The Floor - linkin park
+In The End - linkin park
+My December - linkin park
+Papercut - linkin park
+Papercut 2 - linkin park
+Points Of Authority - linkin park
+Pushing Me Away - linkin park
+Pushing Me Away 2 - linkin park
+Session - linkin park
+Somewhere I Belong 1 - linkin park
+Somewhere I Belong 2 - linkin park
+Angel With The Scabbed Wings - marilyn manson
+Antichrist Superstar - marilyn manson
+Apple Of Sodom - marilyn manson
+Cryptorchid - marilyn manson
+Disassociative - marilyn manson
+Dogma - marilyn manson
+Dope Show - marilyn manson
+Down In The Park - marilyn manson
+Dried Up Tied And Dead To The World - marilyn manson
+Great Big White World - marilyn manson
+Last Day On Earth - marilyn manson
+Little Horn - marilyn manson
+Mister Superstar - marilyn manson
+New Model No 15 - marilyn manson
+Reflecting God - marilyn manson
+Rock Is Dead - marilyn manson
+Shitty Chicken Gang Bang - marilyn manson
+Sweet Dreams Are Made Of This - marilyn manson
+Tainted Love - marilyn manson
+Tourniquet - marilyn manson
+She Will Be Loved 2 - maroon5
+She Will Be Loved 3 - maroon5
+This Love 2 - maroon5
+99 Ways To Die - megadeth
+Angry Again - megadeth
+Architecture Of Aggression - megadeth
+A Tout Le Monde - megadeth
+Elysian Fields - megadeth
+Holy Wars The Punishment Due - megadeth
+In My Darkest Hour - megadeth
+Peace Sells - megadeth
+Reckoning Day - megadeth
+Skin O My Teeth - megadeth
+Train Of Consequences - megadeth
+Trust - megadeth
+Anesthesia 1 - metallica

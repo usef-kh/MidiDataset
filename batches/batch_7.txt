@@ -1,99 +1,69 @@
-Trust - megadeth
-Anesthesia 1 - metallica
-Anesthesia 2 - metallica
-Bleeding Me - metallica
-Call Of Ktulu 1 - metallica
-Crash Course In Brain Surgery - metallica
-Creeping Death 2 - metallica
-Creeping Death 3 - metallica
-Cure - metallica
-Enter Sandman 1 - metallica
-Enter Sandman 3 - metallica
-Fade To Black 1 - metallica
-For Whom The Bell Tolls - metallica
-Harvester of Sorrow 2 - metallica
-Harvester Of Sorrow 3 - metallica
-Hero Of The Day 1 - metallica
-King Nothing - metallica
-Last Caress - metallica
-Low Mans Lyric 2 - metallica
-Master Of Puppets 1 - metallica
-Master Of Puppets 3 - metallica
-Memmory Remains - metallica
-Memmory Remains 2 - metallica
-Metallica Medley - metallica
-Metallica Mix - metallica
-Metal Militia - metallica
-Nothing Else Matters - metallica
-Nothing Else Matters 2 - metallica
-Nothing Else Matters 3 - metallica
-Orion 1 - metallica
-Orion 3 - metallica
-Sad But True 2 - metallica
-Sad But True 3 - metallica
-Seek And Destroy 1 - metallica
-Seek And Destroy 3 - metallica
-So What - metallica
-Unforgiven2 - metallica
-Unforgiven 3 - metallica
-Until It Sleeps 2 - metallica
-Until It Sleeps 3 - metallica
-Wasting My Hate - metallica
-Welcome Home Sanitarium 2 - metallica
-Welcome Home Sanitarium 3 - metallica
-Ace Of Spades - motorhead
-Im Not Okay I Promise - my chemical romance
-How You Remind Me - nickelback
-Leader Of Men Acoustic Version - nickelback
-Someday - nickelback
-10th Man Down - nightwish
-Beauty And The Beast - nightwish
-Bless The Child 1 - nightwish
-Bless The Child 2 - nightwish
-Come Cover Me - nightwish
-Crownless - nightwish
-Dead Boys Poem - nightwish
-Dead To The World - nightwish
-Deep Silent Complete - nightwish
-Elvenpath - nightwish
-End Of All Hope - nightwish
-Ever Dream - nightwish
-FantasMic - nightwish
-Kinslayer - nightwish
-Lappi Lapland Part I - nightwish
-Over The Hills And Far Away - nightwish
-Pharaoh Sails To Orion - nightwish
-She Is My Sin - nightwish
-Slaying The Dreamer - nightwish
-Sleeping Sun - nightwish
-Stargazers - nightwish
-Walking In The Air - nightwish
-Wanderlust - nightwish
-Wishmaster - nightwish
-A Warm Place - nine inch nails
-A Warm Place 2 - nine inch nails
-A Warm Place 3 - nine inch nails
-Big Man With A Gun - nine inch nails
-Burn - nine inch nails
-Closer 2 - nine inch nails
-Closer 3 - nine inch nails
-Closer 5 - nine inch nails
-Closer 6 - nine inch nails
-Closer 7 - nine inch nails
-Closer 8 - nine inch nails
-Closer To God - nine inch nails
-Dead Souls - nine inch nails
-Downward Spiral 1 - nine inch nails
-Downward Spiral 2 - nine inch nails
-Gave Up 2 - nine inch nails
-Help Me Im In Hell 1 - nine inch nails
-Help Me Im In Hell 2 - nine inch nails
-Heresy - nine inch nails
-Hurt - nine inch nails
-Hurt 2 - nine inch nails
-I Do Not Want This 1 - nine inch nails
-I Do Not Want This 2 - nine inch nails
-I Do Not Want This 3 - nine inch nails
-I Do Not Want This 4 - nine inch nails
-Last - nine inch nails
-Last 2 - nine inch nails
+Wake Me Up When September Ends - green day
+Whatsername - green day
+When I Come Around - green day
+When I Come Around 2 - green day
+When I Come Around 3 - green day
+Knockin On Heavens Door - guns n roses
+Knockin On Heavens Door 2 - guns n roses
+Live And Let Die - guns n roses
+November Rain 2 - guns n roses
+November Rain 3 - guns n roses
+Patience - guns n roses
+Sweet Child O Mine - guns n roses
+Welcome To The Jungle - guns n roses
+You Could Be Mine - guns n roses
+Bury Me Deep Inside Your Heart - him
+Enjoy The Silence - him
+For You - him
+Funeral Of Hearts 3 - him
+Funeral Of Hearts 4 - him
+Gone With The Sin - him
+Join Me 2 - him
+Join Me 3 - him
+Join Me 4 - him
+Poison Girl - him
+Resurection - him
+Wicked Game 2 - him
+Your Sweet 666 - him
+2:00 AM - iron maiden
+2 Minutes To Midnight - iron maiden
+Aftermath - iron maiden
+Alexander The Great 356-323 BC - iron maiden
+Back In The Village - iron maiden
+Be Quick Or Be Dead - iron maiden
+Blood On The Worlds Hands - iron maiden
+Can I Play With Madness - iron maiden
+Charlotte The Harlot - iron maiden
+Children Of The Damned - iron maiden
+Clairvoyant - iron maiden
+Deja-Vu - iron maiden
+Die With Your Boots On - iron maiden
+Dont Look To The Eyes Of A Stranger - iron maiden
+Duellists - iron maiden
+Edge Of Darkness - iron maiden
+Evil That Men Do - iron maiden
+Flash Of The Blade - iron maiden
+Flight Of Icarus - iron maiden
+Fortunes Of War - iron maiden
+Genghis Khan - iron maiden
+Hallowed Be Thy Name - iron maiden
+Heaven Can Wait - iron maiden
+Holy Smoke - iron maiden
+Ides Of March - iron maiden
+Infinite Dreams - iron maiden
+Innocent Exile - iron maiden
+Invaders - iron maiden
+Iron Maiden - iron maiden
+Judgement Of Heaven - iron maiden
+Killers - iron maiden
+Loneliness Of The Long Distance Runner - iron maiden
+Look For The Truth - iron maiden
+Lord Of The Flies - iron maiden
+Man On The Edge - iron maiden
+Moonchild - iron maiden
+Mother Russia - iron maiden
+No Prayer For The Dying - iron maiden
+Number Of The Beast - iron maiden
+Only The Good Die Young - iron maiden
+Phantom Of The Opera - iron maiden
+Powerslave - iron maiden

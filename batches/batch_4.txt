@@ -1,99 +1,70 @@
-Running On Faith - eric clapton
-Signe - eric clapton
-Sunshine Of My Love - eric clapton
-Tears In Heaven - eric clapton
-Tears In Heaven 2 - eric clapton
-White Room - eric clapton
-Wonderful Tonight - eric clapton
-Wonderful Tonight 2 - eric clapton
-Final Countdown - europe
-Bring Me To Life 1 - evanescence
-Bring Me To Life 2 - evanescence
-Bring Me To Life 3 - evanescence
-Bring Me To Life 4 - evanescence
-Going Under - evanescence
-Hello - evanescence
-Imaginary - evanescence
-My Immortal 1 - evanescence
-My Immortal 2 - evanescence
-My Immortal 3 - evanescence
-My Immortal 4 - evanescence
-My Last Breath 1 - evanescence
-My Last Breath 2 - evanescence
-Taking Over Me - evanescence
-Tourniquet - evanescence
-Big Me - foo fighters
-Everlong - foo fighters
-February Stars - foo fighters
-For All The Cows - foo fighters
-Monkey Wrench - foo fighters
-My Poor Brain - foo fighters
-Oh George - foo fighters
-This Is A Call - foo fighters
-Up In Arms 1 - foo fighters
-Up In Arms 2 - foo fighters
-Walking After You - foo fighters
-After Glow - genesis
-Anyway - genesis
-Battle Of Epping Forest - genesis
-Blood On The Rooftops - genesis
-Brazilian - genesis
-Broadway Melody Of 1974 - genesis
-Cage - genesis
-Carpet Crawlers 1 - genesis
-Carpet Crawlers 2 - genesis
-Carpet Crawlers 3 - genesis
-Cinema Show - genesis
-Hold On My Heart - genesis
-Horizons - genesis
-Invisible Touch - genesis
-In Too Deep - genesis
-I Know What I Like - genesis
-Lamb Lies Down On Broadway - genesis
-Lamb Lies Down On Broadway 2 - genesis
-Lilywhite Lilith - genesis
-Many Too Many - genesis
-Misunderstanding - genesis
-One For The Vine - genesis
-Paperlate - genesis
-Squonk - genesis
-Taking It All To Hard - genesis
-Tell Me Why - genesis
-Tonight Tonight Tonight - genesis
-Watcher Of The Skies - genesis
-Watcher Of The Skies 2 - genesis
-1000 Hours - green day
-16 - green day
-409 In Your Coffeemaker - green day
-80 - green day
-86 - green day
-Are We The Waiting - green day
-Brainstew - green day
-Brainstew 2 - green day
-Coming Clean - green day
-Extraordinary Girl - green day
-Give Me Novacaine - green day
-Good Riddance Time Of Your Life - green day
-Good Riddance Time Of Your Life 2 - green day
-Good Riddance Time Of Your Life 3 - green day
-Hitchin A Ride - green day
-Holiday - green day
-Holiday 2 - green day
-Homecoming - green day
-In The End - green day
-Jesus Of Suburbia - green day
-Letterbomb - green day
-Longview - green day
-Only Of You - green day
-Pulling Teeth - green day
-Pulling Teeth 2 - green day
-Same In The End - green day
-Shes A Rebel - green day
-St Jimmy - green day
-Wake Me Up When September Ends - green day
-Whatsername - green day
-When I Come Around - green day
-When I Come Around 2 - green day
-When I Come Around 3 - green day
-Knockin On Heavens Door - guns n roses
-Knockin On Heavens Door 2 - guns n roses
+One Night - corrs
+Only When I Sleep 1 - corrs
+Only When I Sleep 2 - corrs
+On My Fathers Wings - corrs
+Paddy McCarthy - corrs
+Radio 2 - corrs
+Radio 3 - corrs
+Right Time 1 - corrs
+Right Time 3 - corrs
+Runaway 1 - corrs
+Runaway 2 - corrs
+Runaway 3 - corrs
+Somebody For Someone - corrs
+So Young 1 - corrs
+Toss The Feathers - corrs
+What Can I Do 1 - corrs
+What Can I Do 2 - corrs
+What Can I Do 3 - corrs
+What Can I Do 5 - corrs
+What I Know - corrs
+When Hes Not Around - corrs
+Would You Be Happier - corrs
+A Dream Of Wolves In The Snow - cradle of filth
+Darkness Our Bride 1 - cradle of filth
+Darkness Our Bride 2 - cradle of filth
+Filthy Little Secret - cradle of filth
+From The Cradle To Enslave 1 - cradle of filth
+From The Cradle To Enslave 2 - cradle of filth
+One Final Graven Kiss 1 - cradle of filth
+One Final Graven Kiss 2 - cradle of filth
+Queen Of Winter Throned 2 - cradle of filth
+The Forest Whispers My Name 2 - cradle of filth
+The Forest Whispers My Name 3 - cradle of filth
+The Forest Whispers My Name 4 - cradle of filth
+Analyze - cranberries
+Animal Instinct - cranberries
+Away - cranberries
+Disappointment - cranberries
+Dreaming My Dreams - cranberries
+Dreams 1 - cranberries
+Dreams 2 - cranberries
+Electric Blue - cranberries
+Everything I Said - cranberries
+Free To Decide 1 - cranberries
+Hollywood 1 - cranberries
+How - cranberries
+I Cant Be With You 1 - cranberries
+I Cant Be With You 2 - cranberries
+I Just Shot John Lennon 1 - cranberries
+I Will Always - cranberries
+Linger 1 - cranberries
+Linger 2 - cranberries
+Not Sorry - cranberries
+No Need To Argue - cranberries
+Ode To My Family 1 - cranberries
+Ode To My Family 2 - cranberries
+Ode To My Family 3 - cranberries
+Pretty - cranberries
+Promises - cranberries
+Ridiculous Thoughts - cranberries
+Salvation 2 - cranberries
+Salvation 3 - cranberries
+Still Cant - cranberries
+Sunday - cranberries
+Twenty One 1 - cranberries
+Twenty One 2 - cranberries
+Waltzing Back - cranberries
+Wanted - cranberries
+War Child 1 - cranberries
+Will You Remember - cranberries
